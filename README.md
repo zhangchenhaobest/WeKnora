@@ -1,3 +1,29 @@
+# WeKnora
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 LLM 知识平台，把原始文档变成可查询 RAG、自主推理 Agent 与自维护 Wiki。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <a href="https://weknora.weixin.qq.com">
     <picture>
